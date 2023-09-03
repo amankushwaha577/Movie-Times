@@ -22,12 +22,8 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Introducing MovieTimes, the cutting-edge movie and TV show app built with the power of React and Redux! Dive into a world of limitless entertainment at your fingertips. Whether you're a dedicated cinephile, a TV series addict, or just looking for a night of fun, MovieTimes has got you covered.
+                Explore an extensive library of movies and TV shows spanning various genres, from action-packed blockbusters to heartwarming dramas, and binge-worthy series.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
