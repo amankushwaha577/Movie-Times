@@ -32,7 +32,7 @@ TMDB API
 
 # Online Reachability:
 
-TECHNICAL SIDES OF FRIEND'S SPY
+TECHNICAL SIDES OF MOVIETIMES
 ```sh
 1. React-Powered Frontend.
 2. Redux is seamlessly integrated to handle the apps state management.
