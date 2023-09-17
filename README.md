@@ -1,7 +1,7 @@
 # ``` Movie-Times ```
 Trending Movie Application
 
-![Webp net-gifmaker]()
+![Webp net-gifmaker](https://user-images.githubusercontent.com/53748350/265261445-c63518d0-b463-48b1-b930-74c892b62519.gif)
 
    - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Introducing MovieTimes, the cutting-edge movie and TV show app built with the power of React and Redux! Dive into a world of limitless entertainment at your fingertips. Whether you're a dedicated cinephile, a TV series addict, or just looking for a night of fun, MovieTimes has got you covered.`
   -  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Vast Content Library: Explore an extensive library of movies and TV shows spanning various genres, from action-packed blockbusters to heartwarming dramas, and binge-worthy series.`
