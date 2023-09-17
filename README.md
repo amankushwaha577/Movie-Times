@@ -36,7 +36,8 @@ TECHNICAL SIDES OF FRIEND'S SPY
 ```sh
 1. React-Powered Frontend.
 2. Redux is seamlessly integrated to handle the apps state management.
-3. TMDb API Integration: ReelStream fetches comprehensive movie and TV show data from The Movie Database (TMDb) API
+3. TMDb API Integration: ReelStream fetches comprehensive movie and
+   TV show data from The Movie Database (TMDb) API
 4. SCSS Styling: SCSS, a CSS preprocessor, is used for advanced styling 
 
 ```
