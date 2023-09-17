@@ -14,30 +14,31 @@ const Footer = () => {
     return (
         <footer className="footer">
             <ContentWrapper>
-                <ul className="menuItems">
-                    <li className="menuItem">Terms Of Use</li>
-                    <li className="menuItem">Privacy-Policy</li>
-                    <li className="menuItem">About</li>
-                    <li className="menuItem">Blog</li>
-                    <li className="menuItem">FAQ</li>
-                </ul>
+                
                 <div className="infoText">
                 Introducing MovieTimes, the cutting-edge movie and TV show app built with the power of React and Redux! Dive into a world of limitless entertainment at your fingertips. Whether you're a dedicated cinephile, a TV series addict, or just looking for a night of fun, MovieTimes has got you covered.
                 Explore an extensive library of movies and TV shows spanning various genres, from action-packed blockbusters to heartwarming dramas, and binge-worthy series.
                 </div>
+
+                <ul className="menuItems">
+                    <li className="menuItem">MOVIETIMES : AMAN KUSHWAHA</li>
+                    {/* <li className="menuItem">: </li>
+                    <li className="menuItem">AMAN KUSHWAHA</li> */}
+                </ul>
+
                 <div className="socialIcons">
-                    <span className="icon">
-                        <FaFacebookF />
-                    </span>
-                    <span className="icon">
-                        <FaInstagram />
-                    </span>
-                    <span className="icon">
-                        <FaTwitter />
-                    </span>
-                    <span className="icon">
-                        <FaLinkedin />
-                    </span>
+                 <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="icon">
+                      <FaFacebookF />
+                 </a>
+                 <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="icon">
+                      <FaInstagram />
+                  </a>
+                  <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" className="icon">
+                      <FaTwitter />
+                  </a>
+                  <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="icon">
+                      <FaLinkedin />
+                  </a>
                 </div>
             </ContentWrapper>
         </footer>
