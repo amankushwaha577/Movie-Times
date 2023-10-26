@@ -10,7 +10,7 @@ Trending Movie Application
   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Real-Time Updates: Stay up to date with the latest releases, news, and trailers. StreamHub keeps you informed about what's trending in the world of entertainment.`
 
 
-
+ 
  <br>
 
 # LANGUAGES, FRAMEWORKS, LIBRARY AND DATABASE
