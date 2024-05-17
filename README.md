@@ -9,7 +9,7 @@ Trending Movie Application
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Personalized Recommendations: Say goodbye to endless scrolling. StreamHub leverages Redux to offer personalized content recommendations based on your viewing history and preferences.`
   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Real-Time Updates: Stay up to date with the latest releases, news, and trailers. StreamHub keeps you informed about what's trending in the world of entertainment.`
 
-    
+     
    
  <br>
 
