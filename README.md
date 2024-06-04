@@ -1,5 +1,5 @@
 # ``` Movie-Times ```
-Trending Movie Application
+Trending Movie Application  
 
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/53748350/268509297-958544e6-8214-4b57-ad87-d1eae59023c1.gif)
 
